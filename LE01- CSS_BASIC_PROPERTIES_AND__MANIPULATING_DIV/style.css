@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-position: top;
+}
+h1{
+    text-align: center;
+}
+a{
+    font-size: 50px;
+}
+.paragraph{
+    background-color: aquamarine;
+    color: blue;
+    font-size: 80px;
+    font-weight: 500;
+    text-decoration: wavy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#lk{
+    background-color: blueviolet;
+    height: 300px;
+}
+
+#square{
+    background-color: hotpink;
+    height: 200px;
+    width: 200px;
+}
+#rectangle{
+    background-color: cornflowerblue;
+    height: 200px;
+    width: 400px;
+}
+#circle{
+    background-color: deeppink;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
